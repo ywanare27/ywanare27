@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ywanare27
+- 🌱 I’m currently learning python with data science
